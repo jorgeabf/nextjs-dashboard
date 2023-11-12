@@ -1,3 +1,5 @@
+import PageTitle from "@/app/ui/pageTitle";
+
 export default function CustomPage() {
-  return <h1>Customers Page</h1>
+  return <PageTitle>Customers Page</PageTitle>
 }

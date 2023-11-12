@@ -1,5 +1,7 @@
+import PageTitle from '@/app/ui/pageTitle'
+
 const InvoicesPage = () => {
-  return <div>Invoices Page</div>
+  return <PageTitle>Invoices Page</PageTitle>
 }
 
 export default InvoicesPage

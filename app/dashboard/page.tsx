@@ -1,8 +1,8 @@
-import SideNav from "../ui/dashboard/sidenav"
+import PageTitle from "../ui/pageTitle"
 
 function page() {
   return (
-    <div>Dashboard</div>
+    <PageTitle>Dashboard</PageTitle>
   )
 }
 
