@@ -1,7 +1,5 @@
 import PageTitle from '@/app/ui/pageTitle'
 
-const InvoicesPage = () => {
+export default function InvoicesPage() {
   return <PageTitle>Invoices Page</PageTitle>
 }
-
-export default InvoicesPage

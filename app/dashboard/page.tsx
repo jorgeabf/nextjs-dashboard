@@ -1,9 +1,5 @@
-import PageTitle from "../ui/pageTitle"
+import PageTitle from '../ui/pageTitle'
 
-function page() {
-  return (
-    <PageTitle>Dashboard</PageTitle>
-  )
+export default function Page() {
+  return <PageTitle>Dashboard</PageTitle>
 }
-
-export default page
